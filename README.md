@@ -51,10 +51,6 @@ Semua kode utama ditulis dalam Arduino IDE dan menggunakan library `Servo.h`. Be
 3. Hubungkan Arduino Uno sesuai pin pada proyek
 4. Jalankan sistem dan uji dengan berbagai jenis sampah
 
-## 📷 Dokumentasi
-
-(Tambahkan gambar diagram sistem, wiring, atau foto prototipe di sini)
-
 ## 🤝 Kontribusi
 
 Proyek ini dikembangkan sebagai bagian dari eksperimen sistem otomatisasi berbasis mikrokontroler. Siapa pun dipersilakan untuk mengembangkan lebih lanjut, misalnya dengan:
